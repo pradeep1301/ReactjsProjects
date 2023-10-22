@@ -1,7 +1,7 @@
 # React Router Example App
 ***
 
-## Table of Contents
+### Table of Contents
 1. [General Info](#general-info)
 2. [Official Link](#official-link)
 3. [Tag Used](#tags-used)
@@ -10,7 +10,7 @@
 ### General Info:
 This application provides a working example to implement React Router in react app.
 ***
-### Official Link:
+## Official Link:
 Official site for react router dom is <a href="https://reactrouter.com/en/main" target="_blank">React-Router</a>
 ***
 ### Tag Used:
