@@ -1,5 +1,7 @@
 # React Router Example App
 
+***
+
 This application provides a working example to implement React Router in react app.
 
 Currently, two official plugins are available:
