@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 Official site for react router dom is [React-Router](https://reactrouter.com/en/main)
 
-Steps to Implement Router in React app:
+Steps to Implement Router in React app: \n \n /n
 1 - Import & Use <RouterProvider /> in main.jsx in place of <App />
 2 - <RouterProvider /> requires only 1 prop, which is router={router}
 3 - need to create router variable, which requires createBrowserRouter.
