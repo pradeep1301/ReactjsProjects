@@ -15,15 +15,14 @@ Official site for react router dom is <a href="https://reactrouter.com/en/main" 
 ***
 ### Tag Used:
 Tags used in React router dom:
-Link - It's used in place of <a> tag.
+* Link - It's used in place of <a> tag.
 <a> reloads complete page so instead of using <a> tag, it is considered to use <Link> tag.
 
-NavLink - It provides direct access to isActive property to identify active tab in application.
+* NavLink - It provides direct access to isActive property to identify active tab in application.
 ***
-
 ### Setup:
-Steps to Implement Router in React app: \n \n /n
-1 - Import & Use <RouterProvider /> in main.jsx in place of <App />
-2 - <RouterProvider /> requires only 1 prop, which is router={router}
-3 - need to create router variable, which requires createBrowserRouter.
+Steps to Implement Router in React app:
+* 1 - Import & Use <RouterProvider /> in main.jsx in place of <App />
+* 2 - <RouterProvider /> requires only 1 prop, which is router={router}
+* 3 - need to create router variable, which requires createBrowserRouter.
 ***
