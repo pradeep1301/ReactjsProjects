@@ -22,7 +22,13 @@ Tags used in React router dom:
 ***
 ### Setup:
 Steps to Implement Router in React app:
-* 1 - Import & Use <RouterProvider /> in main.jsx in place of <App />
-* 2 - <RouterProvider /> requires only 1 prop, which is router={router}
+* 1 - Import & Use RouterProvider tag in main.jsx in place of App tag.
+```
+<React.StrictMode>
+    <RouterProvider router={router} />
+  </React.StrictMode>,
+```
+* 2 - RouterProvider tag requires only 1 prop, which is router={router}
 * 3 - need to create router variable, which requires createBrowserRouter.
+* 4 - 
 ***
